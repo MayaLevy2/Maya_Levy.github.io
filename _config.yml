@@ -1,3 +1,14 @@
-theme: jekyll-theme-midnight
+
 title: "Maya Levy - Web Page"
 show_downloads: false
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Social Media Links
+github_username:  MayaLevy2
+facebook_username: Maya Levy Greenberg
+
