@@ -1,4 +1,4 @@
-# Maya Levy Web Page
+# Maya's Web Page
 
 * Hey there!
   My name is Maya and currently i'm a PhD student in weizmann institute.
