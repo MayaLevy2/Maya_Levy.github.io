@@ -1,14 +1,22 @@
+title: "Maya Levy - Web Page"
+email: Maya.levygreenberg@weizmann.ac.il
+description: >-
+  Welcome to my personal page! Find information about my academic progress and my interests.
+  
+######################
+### Build settings ###
+######################
 
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
 title: "Maya Levy - Web Page"
 show_downloads: false
 
+#######################
+# BSocial Media Links #
+#######################
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
-# Social Media Links
 github_username:  MayaLevy2
 facebook_username: Maya Levy Greenberg
 
